@@ -6,5 +6,6 @@ namespace ClassLibrary1
 {
     class sampeleee
     {
+        public int MyProperty { get; set; }
     }
 }
