@@ -12,5 +12,7 @@ namespace ClassLibrary1
 			set { myVar = value; }
 		}
 
+		//public int MyPropkkerty { get; private set; }
+
 	}
 }
